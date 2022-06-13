@@ -3,7 +3,11 @@
 
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/) - ``` Easy ```
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - ``` Easy ```
+<<<<<<< HEAD
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+=======
+- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) - ``` Easy ```
+>>>>>>> c31dba5cafa7cc64abbca5ecd36eb9b4446f0813
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
